@@ -1,5 +1,5 @@
 # ERPbasic
-A Desctop Application written in Java programming language. JavaFX software platform combined with mySQL relational database management system were used for this project.
+A Desctop Application written in the Java programming language. JavaFX software platform combined with mySQL relational database management system were used for this project.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/209887055-2ecb8d94-5deb-4837-90bb-eb4fec5142eb.jpg"
 width="600" height="420"></kbd>
@@ -25,7 +25,7 @@ The application was made in English language.
 <kbd><img src="https://user-images.githubusercontent.com/119127267/209888903-4149ca99-6901-43c0-b1a8-f0fceb7f867e.jpg"
 width="600" height="420"></kbd>
 
-We can view/create/edit/delete a supplier card, by selecting "Create/Edit Supplier" and then using the buttons on the top according to our needs.
+We can view, create, edit, or delete a supplier card by selecting 'Create/Edit Supplier' and then using the appropriate buttons on the top, depending on our needs.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210681897-f2382f1e-a732-413a-b22a-ff0cb95a63dd.jpg"
 width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210681919-517702df-69fd-4481-8100-96a964fb62ba.jpg"
@@ -35,18 +35,18 @@ width="450" height="450"></kbd>
 width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210681936-0cb7bc86-ffe5-4c18-8059-f39a56d2c0b7.jpg"
 width="450" height="450"></kbd>
 
-We can add a new supplier order by selecting "Add Supplier Order". Numbering is automatically being produced. By choosing Supplier Id (it is givven in a list) the Name is produced automatically. Then, we select Products (from the list or by typing their names) one by one, fill the Quantities and add them to the table (Product Description is automatically being produced). The program also calculates the Total Items. Finally, we can submit the order to the database or cancel our changes.
+We can add a new supplier order by selecting 'Add Supplier Order'. Numbering is automatically generated. By choosing the Supplier Id from the provided list, the Name is automatically populated. Then, we can select Products, either from the list or by typing their names, one by one. We fill in the Quantities and add them to the table. The Product Description is automatically generated. The program also calculates the Total Items. Finally, we can submit the order to the database or cancel our changes.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210680756-464263c6-be60-438a-bde1-9520e7fe8d78.jpg"
 width="1000" height="600"></kbd>
 
-By selecting "View/Edit Supplier Order", we can select an order from the list (all orders from all suppliers) and View, Edit or Delete the order by using the corresponding buttons. Selecting the orders from a particular supplier from the drop down menu in the upper right corner, is also available. 
+By selecting 'View/Edit Supplier Order', we can select an order from the list of all orders from all suppliers and view, edit or delete the order by using the corresponding buttons. It is also possible to filter the orders by a particular supplier using the drop-down menu in the upper right corner.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/209889018-09223b28-8450-4f38-8d52-0da24769a9b9.jpg"
 width="400" height="600"></kbd>   <kbd><img src="https://user-images.githubusercontent.com/119127267/210017524-3eab37e4-5e72-4799-bbcf-5e9780fd0176.jpg"
 width="400" height="600"></kbd>
 
-This is how it looks when we select to edit a specific order from the list:
+This is the appearance when we select to edit a specific order from the list.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/209889059-b7ef4173-ed86-4ce2-b4f9-d19ec9f9d02d.jpg"
 width="1000" height="600"></kbd>
@@ -57,7 +57,7 @@ width="1000" height="600"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210022072-2f24d852-ab05-41de-bead-c14a0e61141a.jpg"
 width="600" height="420"></kbd>
 
-Similarly, we can create a new product (we have to link it with an existing Supplier and fill out all the required fields including tax%. The final tax is being produced automatically). We can also edit, delete or view an existing product.
+Similarly, we can create a new product by linking it with an existing supplier and filling out all the required fields, including the tax percentage. The final tax is automatically calculated. We can also edit, delete, or view an existing product.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210022253-a8d6c4e9-f2db-461d-8bc3-862be68235a6.jpg"
 width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210022260-4c450e27-dda4-4557-a330-af73446ef34d.jpg"
@@ -67,12 +67,12 @@ width="450" height="450"></kbd>
 width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210022270-08170f26-aa26-4be9-87cd-87e271ebed7e.jpg"
 width="450" height="450"></kbd>
 
-By using "Stock" we can check all the products  and their current quantity. The Stock is changing dynamically according to supplies and purchases.
+By using "Stock", we can check all the products and their current quantities. The stock is dynamic and updates according to supplies and purchases.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210022816-eecd29a0-5a2b-4d6b-956d-8429bf7a8571.jpg"
 width="1000" height="600"></kbd>
 
-Finally, "Product Moves", shows us the moves of a particular product that we have to choose from a list. It displays all supplies and purchases from the specific product following a dating order. We also have the ability to open an order  from the list (in an editing format) either by double-clicking it or by selecting it and pressing the "Open Order" button. We can use "Refresh" button to refresh the list in case we made any changes.
+Finally, "Product Moves" allows us to view the movements of a particular product, which we select from a list. It displays all supplies and purchases of the specific product, in chronological order. We also have the ability to open an order from the list in an editing format, either by double-clicking it or by selecting it and pressing the 'Open Order' button. We can use the 'Refresh' button to update the list if we have made any changes.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210023459-3358a313-1ff6-42c7-9825-c4e2410392f5.jpg"
 width="1000" height="600"></kbd>
