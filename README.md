@@ -28,12 +28,12 @@ width="600" height="420"></kbd>
 We can view, create, edit, or delete a supplier card by selecting 'Create/Edit Supplier' and then using the appropriate buttons on the top, depending on our needs.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210681897-f2382f1e-a732-413a-b22a-ff0cb95a63dd.jpg"
-width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210681919-517702df-69fd-4481-8100-96a964fb62ba.jpg"
-width="450" height="450"></kbd>
+width="300" height="300"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210681919-517702df-69fd-4481-8100-96a964fb62ba.jpg"
+width="300" height="300"></kbd>
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210682126-3c3ce315-6200-4216-92a0-9c4f8e4179df.jpg"
-width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210681936-0cb7bc86-ffe5-4c18-8059-f39a56d2c0b7.jpg"
-width="450" height="450"></kbd>
+width="300" height="300"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210681936-0cb7bc86-ffe5-4c18-8059-f39a56d2c0b7.jpg"
+width="300" height="300"></kbd>
 
 We can add a new supplier order by selecting 'Add Supplier Order'. Numbering is automatically generated. By choosing the Supplier Id from the provided list, the Name is automatically populated. Then, we can select Products, either from the list or by typing their names, one by one. We fill in the Quantities and add them to the table. The Product Description is automatically generated. The program also calculates the Total Items. Finally, we can submit the order to the database or cancel our changes.
 
