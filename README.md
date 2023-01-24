@@ -67,12 +67,12 @@ width="450" height="450"></kbd>
 width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210022270-08170f26-aa26-4be9-87cd-87e271ebed7e.jpg"
 width="450" height="450"></kbd>
 
-By using "Stock", we can check all the products and their current quantities. The stock is dynamic and updates according to supplies and purchases.
+By using 'Stock', we can check all the products and their current quantities. The stock is dynamic and updates according to supplies and purchases.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210022816-eecd29a0-5a2b-4d6b-956d-8429bf7a8571.jpg"
 width="1000" height="600"></kbd>
 
-Finally, "Product Moves" allows us to view the movements of a particular product, which we select from a list. It displays all supplies and purchases of the specific product, in chronological order. We also have the ability to open an order from the list in an editing format, either by double-clicking it or by selecting it and pressing the 'Open Order' button. We can use the 'Refresh' button to update the list if we have made any changes.
+Finally, 'Product Moves' allows us to view the movements of a particular product, which we select from a list. It displays all supplies and purchases of the specific product, in chronological order. We also have the ability to open an order from the list in an editing format, either by double-clicking it or by selecting it and pressing the 'Open Order' button. We can use the 'Refresh' button to update the list if we have made any changes.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210023459-3358a313-1ff6-42c7-9825-c4e2410392f5.jpg"
 width="1000" height="600"></kbd>
@@ -83,7 +83,7 @@ width="1000" height="600"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288418-fe48f35d-a955-465c-a7ca-ca4ae88ff48c.jpg"
 width="600" height="420"></kbd>
 
-Similarly to the supplier we can view/create/edit/delete a customer card, by selecting "Create/Edit Customer" and then using the buttons on the top according to our needs. While adding a new customer, we have to follow specific rules. In case a problem arises, a pop up menu informs us how to fix it.
+Similarly to the supplier, we can view, create, edit, or delete a customer card by selecting 'Create/Edit Customer' and then using the appropriate buttons on the top, depending on our needs. When adding a new customer, we have to follow specific rules. In case of a problem, a pop-up menu will inform us of how to fix it.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288760-a97be048-ea9a-4bb0-bab0-9c7aa47df684.jpg"
 width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210288766-06490b60-0dd8-4bb8-bce5-7671469fd5c0.jpg"
@@ -93,28 +93,28 @@ width="450" height="450"></kbd>
 width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210288778-6104cb11-3611-41d3-92e1-4b161fefa836.jpg"
 width="450" height="450"></kbd>
 
-We can add a new customer order by selecting "Add Shipping Order" from the Customer Menu. Numbering is automatically being produced. By choosing Customer Id (it is givven in a list) the Name is produced automatically. Then, we select products from the list (or by typing their names) one by one , we fill the  Quantities and the Discount (this is optional), and add them to the table (Product Description, Unit Cost, Tax and Final Cost are automatically being produced). The program also calculates Total Items, Total Unit Cost, Total Tax and the Final Cost. We then can submit the order to the database or cancel changes.
+We can add a new customer order by selecting 'Add Shipping Order' from the Customer Menu. Numbering is automatically generated. By choosing the Customer Id from the provided list, the Name is automatically populated. Then, we can select products, either from the list or by typing their names, one by one. We fill in the Quantities and the Discount (this is optional), and add them to the table. The Product Description, Unit Cost, Tax, and Final Cost are automatically generated. The program also calculates the Total Items, Total Unit Cost, Total Tax, and the Final Cost. Finally, we can submit the order to the database or cancel any changes.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288819-a8ad2e5c-2cff-48c2-9f40-92f70c6dced4.jpg"
 width="1000" height="600"></kbd>
 
-By selecting "View/Edit Shipping Order", we can select an order from the list (all orders from all customers) and View, Edit or Delete the order by using the corresponding buttons. Selecting the orders from a particular customer from the drop down menu in the upper right corner, is also available. 
+By selecting the 'View/Edit Shipping Order' feature, we can select an order from the list of all orders from all customers and view, edit, or delete the order by using the corresponding buttons. It is also possible to filter the orders by a particular customer using the drop-down menu in the upper right corner.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288827-9c1ccbdb-d79f-4cb2-a7ea-6f2b4af6bc16.jpg"
 width="400" height="600"></kbd>   <kbd><img src="https://user-images.githubusercontent.com/119127267/210288831-a2ac9d4a-f9e7-4b15-aca6-3ce5530ff758.jpg"
 width="400" height="600"></kbd>
 
-This is how it looks when we select to edit a specific order from the list:
+This is the appearance when we select to edit a specific order from the list:
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288838-a3bdb550-24b0-47b8-af43-59c1dc753975.jpg"
 width="1000" height="600"></kbd>
 
-By selecting "Sales" a list of all sales appears concerning the duration of time that we choose on the top fields. The total sales for the selected time, is also been calculated and presented at the bottom-right field. We are capable of opening any order in an editing format either by double-clicking it or by selecting it and pressing "Open Order" button.
+By selecting the 'Sales' feature, a list of all sales within the selected duration of time appears. The total sales for the chosen time period is also calculated and displayed in the bottom-right field. We can open any order in an editing format, either by double-clicking it or by selecting it and pressing the 'Open Order' button.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210674560-e1f6ee32-4409-4baf-abf3-031dd9e65b1f.jpg"
 width="1000" height="600"></kbd>
 
-We can also add receipts from our customers by using "Add Customer Receipts". We are able to enter multiple receipts concerning a particular date. We choose the Date, select Customer Id, Amount, Type of Payment, Notes (optional) for each customer. Numbering and Customer Name are automated. The total amount of receipts is been calculated and presented at the bottom field.
+We can also add receipts from our customers by using the 'Add Customer Receipts' feature. It allows us to enter multiple receipts for a particular date. We choose the Date, select the Customer Id, enter the Amount, choose the Type of Payment, and add Notes (optional) for each customer. Numbering and the Customer Name are automatically generated. The total amount of receipts is calculated and displayed in the bottom field.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210675136-075d6b3f-9b8f-4578-98ea-c05398d99d05.jpg"
 width="1000" height="500"></kbd>
