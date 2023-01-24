@@ -60,12 +60,12 @@ width="600" height="420"></kbd>
 Similarly, we can create a new product by linking it with an existing supplier and filling out all the required fields, including the tax percentage. The final tax is automatically calculated. We can also edit, delete, or view an existing product.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210022253-a8d6c4e9-f2db-461d-8bc3-862be68235a6.jpg"
-width="410" height="410"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210022260-4c450e27-dda4-4557-a330-af73446ef34d.jpg"
-width="410" height="410"></kbd>
+width="400" height="400"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210022260-4c450e27-dda4-4557-a330-af73446ef34d.jpg"
+width="400" height="400"></kbd>
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210022268-647ce2c9-34b3-483d-ade0-866ba36e7d2a.jpg"
-width="410" height="410"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210022270-08170f26-aa26-4be9-87cd-87e271ebed7e.jpg"
-width="410" height="410"></kbd>
+width="400" height="400"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210022270-08170f26-aa26-4be9-87cd-87e271ebed7e.jpg"
+width="400" height="400"></kbd>
 
 By using 'Stock', we can check all the products and their current quantities. The stock is dynamic and updates according to supplies and purchases.
 
