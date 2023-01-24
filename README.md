@@ -86,12 +86,12 @@ width="600" height="420"></kbd>
 Similarly to the supplier, we can view, create, edit, or delete a customer card by selecting 'Create/Edit Customer' and then using the appropriate buttons on the top, depending on our needs. When adding a new customer, we have to follow specific rules. In case of a problem, a pop-up menu will inform us of how to fix it.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288760-a97be048-ea9a-4bb0-bab0-9c7aa47df684.jpg"
-width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210288766-06490b60-0dd8-4bb8-bce5-7671469fd5c0.jpg"
-width="450" height="450"></kbd>
+width="400" height="400"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210288766-06490b60-0dd8-4bb8-bce5-7671469fd5c0.jpg"
+width="400" height="400"></kbd>
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288770-95db55ae-c8a9-4f28-b150-37942b604486.jpg"
-width="450" height="450"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210288778-6104cb11-3611-41d3-92e1-4b161fefa836.jpg"
-width="450" height="450"></kbd>
+width="400" height="400"></kbd> <kbd><img src="https://user-images.githubusercontent.com/119127267/210288778-6104cb11-3611-41d3-92e1-4b161fefa836.jpg"
+width="400" height="400"></kbd>
 
 We can add a new customer order by selecting 'Add Shipping Order' from the Customer Menu. Numbering is automatically generated. By choosing the Customer Id from the provided list, the Name is automatically populated. Then, we can select products, either from the list or by typing their names, one by one. We fill in the Quantities and the Discount (this is optional), and add them to the table. The Product Description, Unit Cost, Tax, and Final Cost are automatically generated. The program also calculates the Total Items, Total Unit Cost, Total Tax, and the Final Cost. Finally, we can submit the order to the database or cancel any changes.
 
