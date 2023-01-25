@@ -142,7 +142,7 @@ width="1000" height="600"></kbd>
 The 'Balances' feature can be used to review Total Costs, Total Receipts and resulted Balances for all of our customers.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677895-e68a5652-464c-469e-9578-4668298bc59b.jpg"
-width="1000" height="550"></kbd>
+width="1000" height="600"></kbd>
 
 Additionally, the 'Customer Moves' feature shows us the moves of a particular Customer, that we choose from a list. It displays all Orders and Receipts from the specific customer in chronological order. We also have the ability to open an order/receipt  from the list in an editing format, either by double-clicking it or by selecting it and pressing the "Open Order/Receipt" button. We can use the 'Refresh' button to refresh the list in case we made any changes. The customer's balance also appears in the bottom-right field.
 
