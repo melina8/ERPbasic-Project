@@ -98,6 +98,11 @@ We can add a new customer order by selecting 'Add Shipping Order' from the Custo
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288819-a8ad2e5c-2cff-48c2-9f40-92f70c6dced4.jpg"
 width="1000" height="600"></kbd>
 
+In case we miss something while creating or editing an order, warning messages will prompt us to fill out any missing parts. Additionally, if we exceed the request for an item, warning messages will pop up and ask us to adjust the quantity based on the number of items remaining in stock.
+
+<kbd><img src="https://user-images.githubusercontent.com/119127267/214696767-ae57ca13-b90c-4765-94d5-eebdf3036feb.jpg"
+width="1000" height="600"></kbd>
+
 By selecting the 'View/Edit Shipping Order' feature, we can select an order from the list of all orders from all customers and view, edit, or delete the order by using the corresponding buttons. It is also possible to filter the orders by a particular customer using the drop-down menu in the upper right corner.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210288827-9c1ccbdb-d79f-4cb2-a7ea-6f2b4af6bc16.jpg"
