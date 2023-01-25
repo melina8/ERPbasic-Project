@@ -119,27 +119,27 @@ We can also add receipts from our customers by using the 'Add Customer Receipts'
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210675136-075d6b3f-9b8f-4578-98ea-c05398d99d05.jpg"
 width="1000" height="500"></kbd>
 
-With "Customer Receipt List" we are able to View the list of registered receipts for a specific duration of time that we choose on the top fields, and edit or delete a receipt by selecting the corresponding button (EDIT RECEIPT/DELETE RECEIPT). 
+With the 'Customer Receipt List,' we can view a list of registered receipts for a specific duration of time that we choose. We can also edit or delete a receipt by selecting the receipt and pressing the corresponding buttons (EDIT RECEIPT/DELETE RECEIPT). 
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210675148-981a2326-ea22-45fd-8701-d5ea6d330043.jpg"
 width="500" height="600"></kbd>
 
-This how it looks when we select to edit a specific receipt from the list:
+This is the appearance when we select to edit a specific receipt from the list:
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210675171-ad02f1c1-07c6-49d1-9d8e-b91ec2b97b5c.jpg"
 width="1000" height="200"></kbd>
 
-By selecting "Earnings" a list of all receipts appears concerning the duration of time that we choose on the top fields. The total amount for the selected time, is also been calculated and presented at the bottom-right field. We are capable of opening any receipt in an editing format either by double-clicking it or by selecting it and pressing "Open Receipt" button.
+By selecting 'Earnings,' a list of all receipts appears, concerning the duration of time that we choose. The total amount for the selected time is also calculated and presented at the bottom-right field. We are capable of opening any receipt in an editing format either by double-clicking it or by selecting it and pressing the 'Open Receipt' button.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677141-f912472c-5283-47c2-8b50-ff7e33dd32bf.jpg"
 width="1000" height="600"></kbd>
 
-"Balances" can be used to review Total Costs, Total Receipts and resulted Balances for all of our customers.
+he 'Balances' feature can be used to review Total Costs, Total Receipts and resulted Balances for all of our customers.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677895-e68a5652-464c-469e-9578-4668298bc59b.jpg"
 width="1000" height="600"></kbd>
 
-Additionally, "Customer Moves" shows us the moves of a particular Customer, that we choose from a list. It displays all Orders and Receipts from the specific customer following a dating order. We also have the ability to open an order/receipt  from the list in an editing format, either by double-clicking it or by selecting it and pressing the "Open Order/Receipt" button. We can use "Refresh" button to refresh the list in case we made any changes. Customer balance also appears at the bottom-right field.
+Additionally, the 'Customer Moves' feature shows us the moves of a particular Customer, that we choose from a list. It displays all Orders and Receipts from the specific customer in chronological order. We also have the ability to open an order/receipt  from the list in an editing format, either by double-clicking it or by selecting it and pressing the "Open Order/Receipt" button. We can use the 'Refresh' button to refresh the list in case we made any changes. The customer's balance also appears in the bottom-right field.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677913-5ea3e6b9-a24c-429f-a793-0c4c9fdc5fbd.jpg"
 width="1000" height="600"></kbd>
@@ -150,8 +150,8 @@ width="1000" height="600"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210158212-bc8852e2-6e51-417e-baa1-32fd29e788e1.jpg"
 width="600" height="420"></kbd>
 
-A number of Statistics can be calculated and presented in bar charts and pie charts, given below:<br />
-No of products per supplier.
+A number of Statistics can be calculated and presented in bar charts and pie charts, as follows: <br />
+Number of products per supplier.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210158214-82633f6a-f4fa-4ad7-9838-05f5e6424cfc.jpg"
 width="500" height="420"></kbd>
