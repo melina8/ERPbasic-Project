@@ -139,10 +139,10 @@ By selecting 'Earnings,' a list of all receipts appears, concerning the duration
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677141-f912472c-5283-47c2-8b50-ff7e33dd32bf.jpg"
 width="1000" height="600"></kbd>
 
-he 'Balances' feature can be used to review Total Costs, Total Receipts and resulted Balances for all of our customers.
+The 'Balances' feature can be used to review Total Costs, Total Receipts and resulted Balances for all of our customers.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677895-e68a5652-464c-469e-9578-4668298bc59b.jpg"
-width="1000" height="600"></kbd>
+width="1000" height="550"></kbd>
 
 Additionally, the 'Customer Moves' feature shows us the moves of a particular Customer, that we choose from a list. It displays all Orders and Receipts from the specific customer in chronological order. We also have the ability to open an order/receipt  from the list in an editing format, either by double-clicking it or by selecting it and pressing the "Open Order/Receipt" button. We can use the 'Refresh' button to refresh the list in case we made any changes. The customer's balance also appears in the bottom-right field.
 
