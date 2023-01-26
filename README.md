@@ -139,7 +139,7 @@ By selecting 'Earnings,' a list of all receipts appears, concerning the duration
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677141-f912472c-5283-47c2-8b50-ff7e33dd32bf.jpg"
 width="1000" height="600"></kbd>
 
-The 'Balances' feature can be used to review Total Costs, Total Receipts and resulted Balances for all of our customers.
+The 'Balances' feature allows us to review Total Costs, Total Receipts, and resulting Balances for all of our customers. We can order the customers by any column by simply clicking on the title of the column. The image below illustrates an order based on Balances (highest to lowest). By re-clicking, the order is reversed.
 
 <kbd><img src="https://user-images.githubusercontent.com/119127267/210677895-e68a5652-464c-469e-9578-4668298bc59b.jpg"
 width="1000" height="600"></kbd>
