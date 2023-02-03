@@ -7,7 +7,6 @@ width="600" height="420"></kbd>
 ## About ##
 - What is ERPbasic
 - Screenshots from the Desktop Application
-- Some code examples
              
 ## What is ERPbasic ##
 BasicERP is a desktop application designed for companies that want to manage their business processes. It has a dynamic database that stores all the information that the user enters.
