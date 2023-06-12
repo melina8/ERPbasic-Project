@@ -9,7 +9,7 @@ width="600" height="420"></kbd>
 - Screenshots from the Desktop Application
              
 ## What is ERPbasic ##
-BasicERP is a desktop application designed for companies that want to manage their business processes. It has a dynamic database that stores all the information that the user enters. It basically supports CRUD operations.
+BasicERP is a desktop application designed for companies that want to manage their business sales processes. It has a dynamic database that stores all the information that the user enters. It basically supports CRUD operations.
 
 Users can create index cards for customers, suppliers, and products by filling out the required fields in the system. They can also create customer orders/supplier orders, add customer receipts, review customer balances, view customer moves, monitor sales and earnings for specified periods of time, track product moves, and manage the storage area based on supplies and purchases. In addition, statistical data can be generated based on user requirements.
 
